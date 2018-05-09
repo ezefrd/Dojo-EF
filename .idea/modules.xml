@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../../../Dojo_EF/dojo_ef/dojo_ef.iml" filepath="$PROJECT_DIR$/../../../../Dojo_EF/dojo_ef/dojo_ef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dojo_EF.iml" filepath="$PROJECT_DIR$/Dojo_EF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dojo_EF-grailsPlugins.iml" filepath="$PROJECT_DIR$/Dojo_EF-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
